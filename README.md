@@ -18,4 +18,5 @@ HTMLの基礎を使い趣味、好きなもの等をまとめ自己紹介ペー�
 ## 動作確認
 
 VSCodeのエクスプローラーでself-introduction.htmlを右クリックし、エクスプローラーで表示を選択
+
 エクスプローラーでself-introduction.htmlをダブルクリックをするとブラウザが起動します。
